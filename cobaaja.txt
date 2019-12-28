@@ -1,8 +1,6 @@
 Ini Cuma Coba
 -Minecraft
 -CS GO
--Battlefield 1
--Dota 2
 -CS Source
 -Path of Exile
 
