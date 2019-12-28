@@ -3,5 +3,7 @@ Ini Cuma Coba
 -CS GO
 -Battlefield 1
 -Dota 2
+-CS Source
+-Path of Exile
 
 
